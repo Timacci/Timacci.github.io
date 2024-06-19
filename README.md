@@ -1,6 +1,5 @@
 # Timacci.github.io
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>My Website Title</title>
