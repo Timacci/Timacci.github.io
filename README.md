@@ -12,6 +12,8 @@
 </body>
 
      <p><a href="page2.html">Page 2</a></p>
+     <p><a href="page3.html">Page 3</a></p>
+
 
 
 </html>
