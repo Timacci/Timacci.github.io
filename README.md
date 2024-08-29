@@ -13,7 +13,6 @@
 
      <p><a href="page2.html">Page 2</a></p>
      <p><a href="page3.html">Page 3</a></p>
-    <video controls src="Short.mov" width = "500">
 
          <p> Testing audio... </p>
 
