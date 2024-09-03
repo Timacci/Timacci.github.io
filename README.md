@@ -13,6 +13,14 @@
         <source src = "Keep It Up.mp3">
     </audio>
 
+    <br>
+
+    <br>
+
+    <audio controls>
+        <source src = "Lightspeed.mp3">
+    </audio>
+
      <p><a href="page3.html">About Me</a></p>
     
 </body>
