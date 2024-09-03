@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <title>Carlos Flores</title>
+    <title>Carlos Flores 1.1</title>
     <link rel="stylesheet" href="style.css">
 
 </head>
