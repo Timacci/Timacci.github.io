@@ -14,7 +14,7 @@
     </audio>
 
     <br>
-
+    <img src="Mars.JPG" alt="Photo 2" style="width:252px;height:179px;">
     <br>
 
     <audio controls>
