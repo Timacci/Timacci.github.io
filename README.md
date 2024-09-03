@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>Carlos Flores</title>
+    <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
     
