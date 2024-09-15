@@ -22,6 +22,13 @@
         <source src = "Lightspeed.mp3">
     </audio>
 
+      <br>
+    <img src="DIAMOND.jpg" alt="Photo 3" style="width:252px;height:179px;">
+    <br>
+    <audio controls>
+        <source src = "Diamond.mp3">
+    </audio>
+
      <p><a href="page3.html">About Me</a></p>
     
 </body>
