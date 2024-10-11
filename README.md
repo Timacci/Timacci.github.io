@@ -29,6 +29,7 @@
         <source src = "Diamond.mp3">
     </audio>
 
+     <p><a href="page2.html">Blog</a></p>
      <p><a href="page3.html">About Me</a></p>
     
 </body>
