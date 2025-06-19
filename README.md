@@ -9,7 +9,7 @@
     
     
     <br>
-    <img src="Tobey.JPG" alt="Photo 1" style="width:252px;height:179px;">
+    <img src="Tobey.JPG" alt="Photo 1" style="width:252px;height:179px;" class = "center">
     <br>
     <audio controls>
         <source src = "Keep It Up.mp3">
