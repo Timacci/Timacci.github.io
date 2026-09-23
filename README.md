@@ -16,14 +16,14 @@
     </audio>
 
     <br>
-    <img src="Mars.jpg" alt="Photo 2" style="width:252px;height:179px;" class = "center">
+    <img src="Mars.jpg" alt="Photo 2" style="width:252px;height:179px;">
     <br>
     <audio controls>
         <source src = "Lightspeed.mp3">
     </audio>
 
       <br>
-    <img src="DIAMOND.jpg" alt="Photo 3" style="width:252px;height:179px;" class = "center">
+    <img src="DIAMOND.jpg" alt="Photo 3" style="width:252px;height:179px;">
     <br>
     <audio controls>
         <source src = "Diamond.mp3">
